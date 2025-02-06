@@ -31,7 +31,7 @@ function locador(){
     if (res == 1){
         locatario()
     }else{
-        window.alert("OBRIGADO, AGUARDO MINHA COMISSÃO")
+        window.alert("OBRIGADO")
     }
 }
 function locatario(){
@@ -65,7 +65,7 @@ function locatario(){
     if (res == 1){
         clausulas()
     }else{
-        window.alert("OBRIGADO, AGUARDO MINHA COMISSÃO")
+        window.alert("OBRIGADO")
     }
 
 }
